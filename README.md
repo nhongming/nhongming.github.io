@@ -10,9 +10,9 @@ I am a Year 2 Bachelor of Science (Information Systems) Undergraduate at SMU Sch
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## License
 
 This project is **free to use** and does not contains any license.
+
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
